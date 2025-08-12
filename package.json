@@ -1,0 +1,28 @@
+{
+  "name": "lab01-client-server",
+  "version": "1.0.0",
+  "description": "Lab 01 - Client-Server Fundamentals",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "client": "node client.js",
+    "monitor": "node monitor.js",
+    "monitor-interactive": "node monitor.js --interactive",
+    "demo": "node client.js && node monitor.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "echo \"Linting not configured\"",
+    "clean": "echo \"Cleaning temporary files...\" && echo \"Done\""
+  },
+  "keywords": [
+    "http",
+    "client-server",
+    "express",
+    "nodejs"
+  ],
+  "author": "Lab Team",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
