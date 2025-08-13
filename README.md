@@ -2,7 +2,7 @@
 
 **Môn học:** Phát triển Ứng dụng Web Nâng cao  
 **Ngày thực hiện:** 12/08/2025  
-**Hình thức:** Thực hành nhóm (2-3 sinh viên)
+**Hình thức:** Thực hành nhóm (3 sinh viên)
 
 ## 📋 Mục tiêu
 
