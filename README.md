@@ -264,20 +264,12 @@ npm install
 
 ## 👥 Thông tin nhóm
 
-**Nhóm:** [Tên nhóm]  
+**Nhóm:**: 20  
 **Thành viên:**
 
-- [Tên thành viên 1] - [Phân công công việc]
-- [Tên thành viên 2] - [Phân công công việc]
-- [Tên thành viên 3] - [Phân công công việc]
-
-**Phân công công việc:**
-
-- Server Implementation: [Tên]
-- Client Implementation: [Tên]
-- Network Monitoring: [Tên]
-- UI/UX Design: [Tên]
-- Documentation: [Tên]
+- [2212353] - [Nguyễn Tiến Đạt]
+- [2212390] - [Danh Nguyễn Tuấn Khanh]
+- [2212453] - [Ngô Bá Tài]
 
 ## 📝 Báo cáo kỹ thuật
 
